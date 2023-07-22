@@ -1,4 +1,9 @@
 # Starter Next/Hardhat Project
+Create a simple contract with 2-3 functions. Then show the values of those functions in frontend of the application. License This contract is using the MIT License.
+
+Prerequisites Solidity ^0.8.0
+
+Contract Details module2 of solidity intermediate
 
 After cloning the github, you will want to do the following to get the code running on your computer.
 
